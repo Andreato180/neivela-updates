@@ -1,7 +1,7 @@
 {
-  "version": "0.2.13",
-  "installer_url": "https://github.com/Andreato180/neivela-updates/releases/download/v0.2.13/Neivela-Setup-0.2.13.exe",
-  "sha256": "565C05DBF86FD93A3EABCCB48FBA4754C22895B722B903B95A5B0A8EEC067722",
-  "size": 288515408,
-  "notes": "Выбор чата больше не меняет его позицию в списке."
+  "version": "0.2.14",
+  "installer_url": "https://github.com/Andreato180/neivela-updates/releases/download/v0.2.14/Neivela-Setup-0.2.14.exe",
+  "sha256": "1074FC2411198A5AD299F55DD25D2BA024E5307FAAABAB6E9A372155B537A29A",
+  "size": 288443144,
+  "notes": "Исправлены ошибки интернет-маршрутизации и грамматики; улучшены распознавание речи и произношение технических терминов."
 }
