@@ -1,7 +1,7 @@
 {
-  "version": "0.2.10",
-  "installer_url": "https://github.com/Andreato180/neivela-updates/releases/download/v0.2.10/Neivela-Setup-0.2.10.exe",
-  "sha256": "D35509A2D6141BFB24343EAB09BBC03AC940C591FB4A891B4A6DB946A345A451",
-  "size": 288451680,
-  "notes": "Подключён защищённый канал автоматических обновлений через GitHub."
+  "version": "0.2.11",
+  "installer_url": "https://github.com/Andreato180/neivela-updates/releases/download/v0.2.11/Neivela-Setup-0.2.11.exe",
+  "sha256": "0752F5008ADC4B1778ED8C6865581F974476A5B57970E67F13719F8C67B7483E",
+  "size": 288418736,
+  "notes": "Подключён защищённый канал обновлений и исправлена проверка подписи загруженного установщика."
 }
