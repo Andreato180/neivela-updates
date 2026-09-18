@@ -1,7 +1,7 @@
 {
-  "version": "0.2.14",
-  "installer_url": "https://github.com/Andreato180/neivela-updates/releases/download/v0.2.14/Neivela-Setup-0.2.14.exe",
-  "sha256": "1074FC2411198A5AD299F55DD25D2BA024E5307FAAABAB6E9A372155B537A29A",
-  "size": 288443144,
-  "notes": "Исправлены ошибки интернет-маршрутизации и грамматики; улучшены распознавание речи и произношение технических терминов."
+  "version": "0.2.15",
+  "installer_url": "https://github.com/Andreato180/neivela-updates/releases/download/v0.2.15/Neivela-Setup-0.2.15.exe",
+  "sha256": "18C3EDA1EB4D589C42CB69E112376E879C8E7EFC3FABC7D10E1B5E9ED770AF2F",
+  "size": 288491048,
+  "notes": "Модель процессора теперь определяется напрямую из Windows и больше не угадывается локальной нейросетью."
 }
